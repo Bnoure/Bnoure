@@ -20,7 +20,7 @@ Currently leaning Javascript & React - In process to level up in January through
 
 <img src="https://profile-counter.glitch.me/BNoure/count.svg" />
 
-Added the \`Mon 3 Jan 2022\`
+Added the \`Mon 11 September 2023\`
 
 Last update on <#today_date>
 
