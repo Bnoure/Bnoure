@@ -1,4 +1,4 @@
-### Hi there 👋
+module.exports = `### Hi there 👋
 
 - 👋 Hi, I’m Nour-Eddine Benkerroum
 - 👀 I’m interested in building skill to become a Full Stack dev - former IT project Manager I decided to quit my position and embrasse the journey of learning Dev 
@@ -20,10 +20,11 @@ Currently leaning Javascript & React - In process to level up in January through
 
 <img src="https://profile-counter.glitch.me/BNoure/count.svg" />
 
-Added the `Mon 3 Jan 2022`
+Added the \`Mon 3 Jan 2022\`
 
-Last update on Tue Sep 12 2023
+Last update on <#today_date>
 
-**110 day before 2024 ⏱** days before new years
+<#day_before_new_years> days before new years
 
-🤖 This README.md is updated with wickedness, by Gabot ❤️
+<#gabot_signing>
+`;
