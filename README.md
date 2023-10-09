@@ -24,6 +24,10 @@ Added the `Mon 11 Sept 2023`
 
 Last update on Mon Oct 09 2023
 
+<<<<<<< HEAD
 **83 day before 2024 ⏱** days before new years
+=======
+**84 day before 2024 ⏱** days before new years
+>>>>>>> 98b327d645f04b4c3e7b7102d6f15b5d7270ccef
 
 🤖 This README.md is updated with hate, by Gabot ❤️
