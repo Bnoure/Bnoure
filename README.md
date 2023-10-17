@@ -24,6 +24,6 @@ Added the `Mon 11 Sept 2023`
 
 Last update on Tue Oct 17 2023
 
-**76 day before 2024 ⏱** days before new years
+**75 day before 2024 ⏱** days before new years
 
 🤖 This README.md is updated with wickedness, by Gabot ❤️
