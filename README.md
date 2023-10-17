@@ -22,8 +22,8 @@ Currently leaning Javascript & React - In process to level up in January through
 
 Added the `Mon 11 Sept 2023`
 
-Last update on Mon Oct 16 2023
+Last update on Tue Oct 17 2023
 
 **76 day before 2024 ⏱** days before new years
 
-🤖 This README.md is updated with hate, by Gabot ❤️
+🤖 This README.md is updated with wickedness, by Gabot ❤️
