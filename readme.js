@@ -1,19 +1,24 @@
-module.exports = `### Hi there 👋
+module.exports = `### 👋 Salut, je suis Nour-Eddine Benkerroum
 
-- 👋 Hi, I’m Nour-Eddine Benkerroum
-- 👀 I’m interested in building skill to become a Full Stack dev - former IT project Manager I decided to quit my position and embrasse the journey of learning Dev 
-- 🌱 I’m currently learning Javascript & React
+🚀 Passionné par le développement web, je suis actuellement en formation chez Le Wagon pour devenir développeur full stack. Fort d'une expérience antérieure en tant que chef de projet IT, j'ai décidé de changer de cap pour embrasser pleinement le monde du développement. Mon objectif est d'acquérir une expertise solide dans l'écosystème JavaScript, en me concentrant sur React, TypeScript, Node.js, et plus encore.
 
-### Contact me
+### 🌱 Ce que j'apprends actuellement
 
-* [Mail](mailto:noureddine.benkerroum@gmail.com)
-* [Linkedin](https://www.linkedin.com/in/nbenkerroum/)
+JavaScript: Découverte des fondamentaux et des concepts avancés pour des applications interactives.
+React: Immersion dans la création d'interfaces utilisateur dynamiques et réactives.
+TypeScript: Apprentissage de ce langage pour renforcer la qualité et la maintenabilité du code.
+Node.js: Exploration de l'environnement serveur pour développer des applications web complètes.
 
-### My projects
+### 🎯 Mes intérêts
 
-* BootCamp & Self learning
+Développement Full Stack: Aspirer à devenir un développeur versatile capable de travailler à la fois sur le front-end et le back-end.
+Ecosystème JavaScript: Se spécialiser dans l'écosystème JS pour créer des applications modernes et performantes.
+Apprentissage Continu: Reste à l'affût des dernières technologies et meilleures pratiques en développement web.
 
-Currently leaning Javascript & React - In process to level up in January through a Bootcamp 
+### 📫 Me contacter
+
+- [Mail](mailto:noureddine.benkerroum@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/nbenkerroum/)
 
 
 ### Visitor count
