@@ -1,12 +1,12 @@
-const { promises: fs } = require('fs');
-const readme = require('./readme');
+const { promises: fs } = require("fs");
+const readme = require("./readme");
 
 const msInOneDay = 1000 * 60 * 60 * 24;
 
 const today = new Date();
 
 function generateNewREADME() {
-  const readmeRow = readme.split('\n');
+  const readmeRow = readme.split("\n");
 
   function updateIdentifier(identifier, replaceText) {
     const identifierIndex = findIdentifierIndex(readmeRow, identifier);
@@ -27,17 +27,17 @@ function generateNewREADME() {
     updateIdentifier(key, value);
   });
 
-  return readmeRow.join('\n');
+  return readmeRow.join("\n");
 }
 
 const moodByDay = {
-  1: 'hate',
-  2: 'wickedness',
-  3: 'pleasure',
-  4: 'wickedness',
-  5: 'cruelty',
-  6: 'horror',
-  7: 'love',
+  1: "hate",
+  2: "wickedness",
+  3: "pleasure",
+  4: "wickedness",
+  5: "cruelty",
+  6: "horror",
+  7: "love",
 };
 
 function getGabotSigning() {
@@ -53,9 +53,9 @@ function getMySelf() {
   // test if we are in a PAIR DAY
   return today.getDate() % 2 === 0
     ? Math.floor(Math.random() * 2)
-      ? 'penguin 🐧'
-      : 'bear 🐻'
-    : 'penguin bear 🐧🐻';
+      ? "penguin 🐧"
+      : "bear 🐻"
+    : "penguin bear 🐧🐻";
 }
 
 function getDBNWSentence() {
@@ -69,14 +69,13 @@ function getDBNWSentence() {
 }
 
 const findIdentifierIndex = (rows, identifier) =>
-  rows.findIndex((r) => Boolean(r.match(new RegExp(`<#${identifier}>`, 'i'))));
+  rows.findIndex((r) => Boolean(r.match(new RegExp(`<#${identifier}>`, "i"))));
 
-const updateREADMEFile = (text) => fs.writeFile('./README.md', text);
+const updateREADMEFile = (text) => fs.writeFile("./README.md", text);
 
 function main() {
   const newREADME = generateNewREADME();
   console.log(newREADME);
-  updateREADMEFile(newREADME).then(() => console.log('README.md updated'));
+  updateREADMEFile(newREADME).then(() => console.log("README.md updated"));
 }
 main();
-
