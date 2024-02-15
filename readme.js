@@ -21,7 +21,8 @@ Apprentissage Continu: Reste à l'affût des dernières technologies et meilleur
 ### Visitor count\n
 <img src="https://profile-counter.glitch.me/BNoure/count.svg" />\n
 Added the \`Mon 11 Sept 2023\`\n
+
 Last update on <#today_date>\n
-<#day_before_new_years> days before new years\n
+<#day_before_new_years>\n
 <#gabot_signing>\n
 `;

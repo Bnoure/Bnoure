@@ -6,7 +6,7 @@ const msInOneDay = 1000 * 60 * 60 * 24;
 const today = new Date();
 
 function generateNewREADME() {
-  const readmeRow = readme.split("\n");
+  const readmeRow = readme.split("\n\n");
 
   function updateIdentifier(identifier, replaceText) {
     const identifierIndex = findIdentifierIndex(readmeRow, identifier);
