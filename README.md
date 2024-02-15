@@ -19,7 +19,7 @@ Apprentissage Continu: Reste à l'affût des dernières technologies et meilleur
 
 ### 📫 Me contacter
 
-- [Mail](mailto:noureddine.benkerroum@gmail.com)
+- [Mail](noureddine.benkerroum@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/nbenkerroum/)
 
 
