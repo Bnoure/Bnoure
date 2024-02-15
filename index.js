@@ -6,7 +6,7 @@ const msInOneDay = 1000 * 60 * 60 * 24;
 const today = new Date();
 
 function generateNewREADME() {
-  const readmeRow = readme.split("\n\n");
+  const readmeRow = readme.split("\n");
 
   function updateIdentifier(identifier, replaceText) {
     const identifierIndex = findIdentifierIndex(readmeRow, identifier);
@@ -41,7 +41,7 @@ const moodByDay = {
 };
 
 function getGabotSigning() {
-  const mood = moodByDay[today.getDay()];
+  const mood = moodByDay[today.getDay() + 1];
   return `🤖 This README.md is updated with ${mood}, by Gabot ❤️`;
 }
 
@@ -76,6 +76,6 @@ const updateREADMEFile = (text) => fs.writeFile("./README.md", text);
 function main() {
   const newREADME = generateNewREADME();
   console.log(newREADME);
-  updateREADMEFile(newREADME).then(() => console.log("README.md updated"));
+  updateREADMEFile(newREADME);
 }
 main();
