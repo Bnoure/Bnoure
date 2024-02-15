@@ -17,12 +17,12 @@ module.exports = `
 * Apprentissage Continu: Reste à l'affût des dernières technologies et meilleures pratiques en développement web.\n
 ---\n
 ### 📫 Me contacter\n
-* - [Mail](noureddine.benkerroum@gmail.com)\n
-* - [Linkedin](https://www.linkedin.com/in/nbenkerroum/)\n
+*  [Mail](noureddine.benkerroum@gmail.com)\n
+*  [Linkedin](https://www.linkedin.com/in/nbenkerroum/)\n
 ---\n
 ### Visitor count\n
-* <img src="https://profile-counter.glitch.me/BNoure/count.svg" />\n
-*Added the \`Mon 11 Sept 2023\`\n
+<img src="https://profile-counter.glitch.me/BNoure/count.svg" />\n
+Added the \`Mon 11 Sept 2023\`\n
 
 Last update on <#today_date>\n
 <#day_before_new_years>\n
