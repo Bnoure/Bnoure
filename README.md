@@ -32,17 +32,17 @@
 
 ### 📫 Me contacter
 
-* - [Mail](noureddine.benkerroum@gmail.com)
+*  [Mail](noureddine.benkerroum@gmail.com)
 
-* - [Linkedin](https://www.linkedin.com/in/nbenkerroum/)
+*  [Linkedin](https://www.linkedin.com/in/nbenkerroum/)
 
 ---
 
 ### Visitor count
 
-* <img src="https://profile-counter.glitch.me/BNoure/count.svg" />
+<img src="https://profile-counter.glitch.me/BNoure/count.svg" />
 
-*Added the `Mon 11 Sept 2023`
+Added the `Mon 11 Sept 2023`
 
 
 Last update on Thu Feb 15 2024
