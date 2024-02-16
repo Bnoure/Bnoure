@@ -5,13 +5,13 @@ on:
   workflow_dispatch:
   schedule:
     # “At 19:35 UTC on every day-of-week from Monday through Friday.”
-    - cron: "00 20 * * *"
+    - cron: "15 21 * * *"
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [20.x]
+        node-version: [14.x]
     steps:
       - uses: actions/checkout@v3
       - name: Use Node.js ${{ matrix.node-version }}
@@ -24,7 +24,7 @@ jobs:
         env:
           CI: true
       - name: commit changes
-        uses: EndBug/add-and-commit@v8
+        uses: EndBug/add-and-commit@v4
         with:
           author_name: Bnoure
           author_email: noureddine.benkerroum@gmail.com
