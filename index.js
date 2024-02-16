@@ -5,6 +5,11 @@ const msInOneDay = 1000 * 60 * 60 * 24;
 
 const today = new Date();
 
+function getGabotSigning() {
+  const moods = ["hate", "wickedness", "pleasure", "cruelty", "horror", "love"];
+  const mood = moods[Math.floor(Math.random() * moods.length)];
+  return `🤖 This README.md is updated with ${mood}, by Gabot ❤️`;
+}
 function generateNewREADME() {
   const readmeRow = readme.split("\n");
 
@@ -28,21 +33,6 @@ function generateNewREADME() {
   });
 
   return readmeRow.join("\n");
-}
-
-const moodByDay = {
-  1: "hate",
-  2: "wickedness",
-  3: "pleasure",
-  4: "wickedness",
-  5: "cruelty",
-  6: "horror",
-  7: "love",
-};
-
-function getGabotSigning() {
-  const mood = moodByDay[today.getDay() + 1];
-  return `🤖 This README.md is updated with ${mood}, by Gabot ❤️`;
 }
 
 function getTodayDate() {
