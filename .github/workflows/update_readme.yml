@@ -24,12 +24,10 @@ jobs:
         env:
           CI: true
       - name: commit changes
-        uses: EndBug/add-and-commit@v4
+        uses: EndBug/add-and-commit@v8
         with:
           author_name: Bnoure
           author_email: noureddine.benkerroum@gmail.com
-          force: false
-          signoff: false
           message: ":memo: README.md updated by Gabot"
         env:
           # This is necessary in order to push a commit to the repo
