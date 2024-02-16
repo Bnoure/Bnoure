@@ -5,13 +5,13 @@ on:
   workflow_dispatch:
   schedule:
     # “At 13:37 on every day-of-week from Monday through Friday.”
-    - cron: "35 18 * * *"
+    - cron: "35 19 * * *"
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [14.x]
+        node-version: [20.x]
     steps:
       - uses: actions/checkout@v3
       - name: Use Node.js ${{ matrix.node-version }}
