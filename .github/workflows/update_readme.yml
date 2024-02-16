@@ -4,8 +4,8 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    # “At 19:35 UTC on every day-of-week from Monday through Friday.”
-    - cron: "15 21 * * *"
+     # Exécute le job tous les jours à 8h du matin UTC
+    - cron: "00 08 * * *"
 jobs:
   update-readme:
     runs-on: ubuntu-latest
