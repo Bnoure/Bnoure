@@ -1,11 +1,11 @@
-name: Update README all day at 04:04
+name: Update README all day
 
 on:
   push:
   workflow_dispatch:
   schedule:
-    # “At 13:37 on every day-of-week from Monday through Friday.”
-    - cron: "35 20 * * *"
+    # “At 19:35 UTC on every day-of-week from Monday through Friday.”
+    - cron: "35 19 * * *"
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -28,6 +28,8 @@ jobs:
         with:
           author_name: Bnoure
           author_email: noureddine.benkerroum@gmail.com
+          force: false
+          signoff: false
           message: ":memo: README.md updated by Gabot"
         env:
           # This is necessary in order to push a commit to the repo
