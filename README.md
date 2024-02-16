@@ -49,5 +49,5 @@ Last update on Fri Feb 16 2024
 
 **319 day before 2025 ⏱**
 
-🤖 This README.md is updated with horror, by Gabot ❤️
+🤖 This README.md is updated with wickedness, by Gabot ❤️
 
