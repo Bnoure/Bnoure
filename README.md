@@ -49,9 +49,5 @@ Last update on Fri Feb 16 2024
 
 **319 day before 2025 ⏱**
 
-<<<<<<< HEAD
 🤖 This README.md is updated with love, by Gabot ❤️
-=======
-🤖 This README.md is updated with cruelty, by Gabot ❤️
->>>>>>> ecf2e8e8a865e20036336c6b7974dceba0d87a44
 
