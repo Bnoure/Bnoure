@@ -49,5 +49,5 @@ Last update on Mon Mar 18 2024
 
 **289 day before 2025 ⏱**
 
-🤖 This README.md is updated with horror, by Gabot ❤️
+🤖 This README.md is updated with hate, by Gabot ❤️
 
