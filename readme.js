@@ -22,18 +22,19 @@ module.exports = `
 ---\n
 ### Languages\n
 <img src="https://profile-counter.glitch.me/BNoure/count.svg" />\n
-<img src="images/Bootstrap.svg" width="64" height="64" />\n
-<img src="images/Css3.svg" width="64" height="64" />\n
-<img src="images/Figma.svg" width="64" height="64" />\n
-<img src="images/Heroku.svg" width="64" height="64" />\n
-<img src="images/Html.svg" width="64" height="64" />\n
-<img src="images/Javascript.svg" width="64" height="64" />\n
-<img src="images/Postgresql.svg" width="64" height="64" />\n
-<img src="images/Rails.svg" width="64" height="64" />\n
-<img src="images/React.svg" width="64" height="64" />\n
-<img src="images/Ruby.svg" width="64" height="64" />\n
-<img src="images/Sass.svg" width="64" height="64" />\n
-<img src="images/Sqlite.svg" width="64" height="64" />\n
+<img src="images/Bootstrap.svg" width="64" height="64" />
+<img src="images/Css3.svg" width="64" height="64" />
+<img src="images/Figma.svg" width="64" height="64" />
+<img src="images/Heroku.svg" width="64" height="64" />
+<img src="images/Html.svg" width="64" height="64" />
+<img src="images/Javascript.svg" width="64" height="64" />
+<img src="images/Postgresql.svg" width="64" height="64" />
+<img src="images/Rails.svg" width="64" height="64" />
+<img src="images/React.svg" width="64" height="64" />
+<img src="images/Ruby.svg" width="64" height="64" />
+<img src="images/Sass.svg" width="64" height="64" />
+<img src="images/Sqlite.svg" width="64" height="64" />
+
 Added the \`Mon 11 Sept 2023\`\n
 
 Last update on <#today_date>\n
