@@ -1,11 +1,11 @@
-name: Update README all day
+name: Update README on weekdays
 
 on:
   push:
   workflow_dispatch:
   schedule:
     # Exécute le job tous les jours à 8h du matin UTC
-    - cron: "00 08 * * 1-5"
+    - cron: "00 08 * * *"
 jobs:
   update-readme:
     runs-on: ubuntu-latest
