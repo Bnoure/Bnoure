@@ -4,7 +4,7 @@
 
 
 
-* 🚀 Passionné par le développement web, je suis actuellement en formation chez Le Wagon pour devenir développeur full stack. Fort d'une expérience * antérieure en tant que chef de projet IT, j'ai décidé de changer de cap pour embrasser pleinement le monde du développement. Mon objectif est d'acquérir * une expertise solide dans l'écosystème JavaScript, en me concentrant sur React, TypeScript, Node.js, et plus encore.
+ 🚀 Passionné par le développement web, Je poursuis ma passion pour le développement web après avoir complété ma formation chez Le Wagon, me préparant à embrasser pleinement la carrière de développeur full stack. Fort d'une expérience * antérieure en tant que chef de projet IT, j'ai décidé de changer de cap pour embrasser pleinement le monde du développement. Mon objectif est d'acquérir * une expertise solide dans l'écosystème JavaScript, en me concentrant sur React, TypeScript, Node.js, et plus encore.
 
 ---
 
@@ -26,6 +26,8 @@
 
 * Ecosystème JavaScript: Se spécialiser dans l'écosystème JS pour créer des applications modernes et performantes.
 
+* Ruby on Rails: Approfondir mes connaissances et compétences en Ruby on Rails pour développer des applications web dynamiques et évolutives.
+
 * Apprentissage Continu: Reste à l'affût des dernières technologies et meilleures pratiques en développement web.
 
 ---
@@ -41,7 +43,7 @@
 ### Languages
 
 
-<img src="images/Bootstrap.svg" width="64" height="64" /> <img src="images/Css3.svg" width="64" height="64" /> <img src="images/Figma.svg" width="64" height="64"/> <img src="images/Heroku.svg" width="64" height="64" /> <img src="images/Html.svg" width="64" height="64"/> <img src="images/Javascript.svg" width="64" height="64"/> <img src="images/Postgresql.svg" width="64" height="64" /> <img src="images/Rails.svg" width="64" height="64"/> <img src="images/React.svg" width="64" height="64" /> <img src="images/Ruby.svg" width="64" height="64" /> <img src="images/Sass.svg" width="64" height="64"/> <img src="images/Sqlite.svg" width="64" height="64"/>
+<img src="images/Javascript.svg" width="64" height="64"/> <img src="images/React.svg" width="64" height="64" /> <img src="images/Ruby.svg" width="64" height="64" /> <img src="images/Rails.svg" width="64" height="64"/> <img src="images/Postgresql.svg" width="64" height="64" /> <img src="images/Sqlite.svg" width="64" height="64"/> <img src="images/Html.svg" width="64" height="64"/> <img src="images/Css3.svg" width="64" height="64" /> <img src="images/Bootstrap.svg" width="64" height="64"/>
 
 Added the `Mon 11 Sept 2023`
 
@@ -50,5 +52,5 @@ Last update on Tue Mar 19 2024
 
 **288 day before 2025 ⏱**
 
-🤖 This README.md is updated with wickedness, by Gabot ❤️
+🤖 This README.md is updated with horror, by Gabot ❤️
 
