@@ -22,7 +22,7 @@ module.exports = `
 ---\n
 ### Languages\n
 
-<img src="images/Bootstrap.svg" width="32" height="32" /> <img src="images/Css3.svg" width="32" height="32" /> <img src="images/Figma.svg" width="32" height="32"/> <img src="images/Heroku.svg" width="32" height="32" /> <img src="images/Html.svg" width="32" height="32"/> <img src="images/Javascript.svg" width="32" height="32"/> <img src="images/Postgresql.svg" width="32" height="32" /> <img src="images/Rails.svg" width="32" height="32"/> <img src="images/React.svg" width="32" height="32" /> <img src="images/Ruby.svg" width="32" height="32" /> <img src="images/Sass.svg" width="32" height="32"/> <img src="images/Sqlite.svg" width="32" height="32"/>
+<img src="images/Bootstrap.svg" width="64" height="64" /> <img src="images/Css3.svg" width="64" height="64" /> <img src="images/Figma.svg" width="64" height="64"/> <img src="images/Heroku.svg" width="64" height="64" /> <img src="images/Html.svg" width="64" height="64"/> <img src="images/Javascript.svg" width="64" height="64"/> <img src="images/Postgresql.svg" width="64" height="64" /> <img src="images/Rails.svg" width="64" height="64"/> <img src="images/React.svg" width="64" height="64" /> <img src="images/Ruby.svg" width="64" height="64" /> <img src="images/Sass.svg" width="64" height="64"/> <img src="images/Sqlite.svg" width="64" height="64"/>
 
 Added the \`Mon 11 Sept 2023\`\n
 
