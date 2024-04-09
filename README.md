@@ -1,8 +1,8 @@
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut+!+👋;+Je+suis+Nour-eddine+Benkerroum!; » />
-</h1>
+
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nour-eddine+Benkerroum!; » />
+
 
 
 🚀 Passionné par le développement web, Je poursuis ma passion pour le développement web après avoir complété ma formation chez Le Wagon, me préparant à embrasser pleinement la carrière de développeur full stack. Fort d'une expérience antérieure en tant que chef de projet IT, j'ai décidé de changer de cap pour embrasser pleinement le monde du développement. Mon objectif est d'acquérir une expertise solide dans l'écosystème JavaScript, en me concentrant sur React, TypeScript, Node.js, et plus encore.
