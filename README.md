@@ -1,7 +1,9 @@
 
 
 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nour-eddine+Benkerroum!; » />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=700&random=false&width=435&lines=Bienvenue++%F0%9F%91%8B+!!+;Je+suis+Nour-Eddine+Benkerroum+!++)](https://git.io/typing-svg)
+
+### 👋 Hey, je suis Nour-Eddine Benkerroum
 
 
 
@@ -54,3 +56,4 @@ Last update on Tue Apr 09 2024
 **267 day before 2025 ⏱**
 
 🤖 This README.md is updated with wickedness, by Gabot ❤️
+
