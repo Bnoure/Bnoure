@@ -12,7 +12,6 @@
 
 
 
-
 🚀 Passionné par le développement web, Je poursuis ma passion pour le développement web après avoir complété ma formation chez Le Wagon, me préparant à embrasser pleinement la carrière de développeur full stack. Fort d'une expérience antérieure en tant que chef de projet IT, j'ai décidé de changer de cap pour embrasser pleinement le monde du développement. Mon objectif est d'acquérir une expertise solide dans l'écosystème JavaScript, en me concentrant sur React, TypeScript, Node.js, et plus encore.
 
 ---
@@ -55,18 +54,9 @@
 
   </a>
 
-  // <a href="https://salesp07.github.io" target="_blank">
-  //    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  // </a>
-
 </div>
 
 ---
-
-### Languages
-
-
-<img src="images/Javascript.svg" width="64" height="64"/> <img src="images/React.svg" width="64" height="64" /> <img src="images/Ruby.svg" width="64" height="64" /> <img src="images/Rails.svg" width="64" height="64"/> <img src="images/Postgresql.svg" width="64" height="64" /> <img src="images/Sqlite.svg" width="64" height="64"/> <img src="images/Html.svg" width="64" height="64"/> <img src="images/Css3.svg" width="64" height="64" /> <img src="images/Bootstrap.svg" width="64" height="64"/>
 
 
 <hr/>
@@ -74,8 +64,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=stimulus,react,,postgresql,,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,rails,ruby,bootstrap,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=vue,react,postgres,postman" /><br>
 </div>
 
 <br/>
@@ -89,5 +79,5 @@ Last update on Tue Apr 09 2024
 
 **266 day before 2025 ⏱**
 
-🤖 This README.md is updated with pleasure, by Gabot ❤️
+🤖 This README.md is updated with love, by Gabot ❤️
 
