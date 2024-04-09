@@ -2,7 +2,9 @@
 
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=700&random=false&width=435&lines=Bienvenue++%F0%9F%91%8B+!!+;Je+suis+Nour-Eddine+Benkerroum+!++)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=700&random=false&width=435&lines=++++++++++++++++++++++Bienvenue++%F0%9F%91%8B+!!+;Je+suis+Nour-Eddine++!++)](https://git.io/typing-svg)
+
 </div>
 
 
@@ -56,5 +58,5 @@ Last update on Tue Apr 09 2024
 
 **267 day before 2025 ⏱**
 
-🤖 This README.md is updated with pleasure, by Gabot ❤️
+🤖 This README.md is updated with cruelty, by Gabot ❤️
 
