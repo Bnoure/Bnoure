@@ -43,9 +43,23 @@
 
 ### 📫 Me contacter
 
-*  [Mail](noureddine.benkerroum@gmail.com)
 
-*  [Linkedin](https://www.linkedin.com/in/nbenkerroum/)
+<div align="center">
+
+  <a href="mailto:noureddine.benkerroum@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+
+  <a href="https://linkedin.com/in/nbenkerroum" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+
+  </a>
+
+  // <a href="https://salesp07.github.io" target="_blank">
+  //    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  // </a>
+
+</div>
 
 ---
 
@@ -54,12 +68,26 @@
 
 <img src="images/Javascript.svg" width="64" height="64"/> <img src="images/React.svg" width="64" height="64" /> <img src="images/Ruby.svg" width="64" height="64" /> <img src="images/Rails.svg" width="64" height="64"/> <img src="images/Postgresql.svg" width="64" height="64" /> <img src="images/Sqlite.svg" width="64" height="64"/> <img src="images/Html.svg" width="64" height="64"/> <img src="images/Css3.svg" width="64" height="64" /> <img src="images/Bootstrap.svg" width="64" height="64"/>
 
+
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,bootstrap,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=stimulus,react,,postgresql,,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
+
+
 Added the `Mon 11 Sept 2023`
 
 
 Last update on Tue Apr 09 2024
 
-**267 day before 2025 ⏱**
+**266 day before 2025 ⏱**
 
-🤖 This README.md is updated with hate, by Gabot ❤️
+🤖 This README.md is updated with horror, by Gabot ❤️
 
