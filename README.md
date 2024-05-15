@@ -64,8 +64,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,rails,ruby,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=vue,postgres,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,rails,ruby,bootstrap,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=vue,react,postgres,postman" /><br>
 </div>
 
 <br/>
@@ -79,5 +79,5 @@ Last update on Wed May 15 2024
 
 **231 day before 2025 ⏱**
 
-🤖 This README.md is updated with horror, by Gabot ❤️
+🤖 This README.md is updated with hate, by Gabot ❤️
 
