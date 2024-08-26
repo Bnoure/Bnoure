@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # Exécute le job tous les jours à 8h du matin UTC
-    - cron: "00 08 * * 1-7"
+    - cron: "00 08 * * 1-5"
 
 jobs:
   update-readme:
@@ -19,7 +19,7 @@ jobs:
         id: random-check
         run: |
           DAY_OF_WEEK=$(date +%u)
-          RANDOM_CHANCE=$((1 + RANDOM % 7))
+          RANDOM_CHANCE=$((1 + RANDOM % 5))
           echo "Today is day number $DAY_OF_WEEK of the week."
           echo "Random chance number is $RANDOM_CHANCE"
           if [ "$RANDOM_CHANCE" -gt 4 ]; then
