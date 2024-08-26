@@ -1,28 +1,46 @@
-name: Update README on weekdays
+name: Update README randomly on weekdays
 
 on:
   push:
   workflow_dispatch:
   schedule:
     # Exécute le job tous les jours à 8h du matin UTC
-    - cron: "00 08 * * 1-5"
+    - cron: "00 08 * * 1-7"
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     strategy:
       matrix:
         node-version: [14.x]
+
     steps:
+      - name: Check if update should happen today
+        id: random-check
+        run: |
+          DAY_OF_WEEK=$(date +%u)
+          RANDOM_CHANCE=$((1 + RANDOM % 7))
+          echo "Today is day number $DAY_OF_WEEK of the week."
+          echo "Random chance number is $RANDOM_CHANCE"
+          if [ "$RANDOM_CHANCE" -gt 4 ]; then
+            echo "Not updating today."
+            exit 0
+          fi
+          echo "Proceeding with update."
+
       - uses: actions/checkout@v3
+
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
+
       - name: Update README.md file
         run: |
           node index.js > README.md
         env:
           CI: true
+
       - name: commit changes
         uses: EndBug/add-and-commit@v4
         with:
@@ -32,5 +50,4 @@ jobs:
           signoff: false
           message: ":memo: README.md updated by Gabot"
         env:
-          # This is necessary in order to push a commit to the repo
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
