@@ -75,9 +75,9 @@
 Added the `Mon 11 Sept 2023`
 
 
-Last update on Fri Oct 18 2024
+Last update on Mon Oct 21 2024
 
-**75 day before 2025 ⏱**
+**72 day before 2025 ⏱**
 
-🤖 This README.md is updated with horror, by Gabot ❤️
+🤖 This README.md is updated with wickedness, by Gabot ❤️
 
