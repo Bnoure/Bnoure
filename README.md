@@ -75,9 +75,9 @@
 Added the `Mon 11 Sept 2023`
 
 
-Last update on Thu Nov 28 2024
+Last update on Fri Nov 29 2024
 
-**34 day before 2025 ⏱**
+**33 day before 2025 ⏱**
 
 🤖 This README.md is updated with horror, by Gabot ❤️
 
